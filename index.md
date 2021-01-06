@@ -143,35 +143,32 @@ Here are resources to help people learn the Rust programming language.
 
 ## Crates
 
-- https://crates.io/crates/log
-- https://crates.io/crates/rand
-- https://crates.io/crates/chrono
-- https://crates.io/crates/time
-- https://crates.io/crates/itoa
-- https://crates.io/crates/smallvec
-- https://crates.io/crates/num-integer
-- https://crates.io/crates/url
-- https://crates.io/crates/futures
-- https://crates.io/crates/ansi_term
-- https://crates.io/crates/ryu
-- https://crates.io/crates/crossbeam-utils
-- https://crates.io/crates/generic-array
-- https://crates.io/crates/strsim
-- https://crates.io/crates/chrono
-- https://crates.io/crates/clap
-- https://crates.io/crates/reqwest
-- https://crates.io/crates/serde
-- https://crates.io/crates/serde_derive
-- https://crates.io/crates/serde_json
-- https://crates.io/crates/syn
-- https://crates.io/crates/proc-macro2
-- https://crates.io/crates/quote
-- https://crates.io/crates/base64
-- https://crates.io/crates/rand_chacha
-- https://crates.io/crates/num-traits
-- https://crates.io/crates/regex
-- https://crates.io/crates/regex-syntax
-- [https://crates.io/crates/cratetorrent](Cratetorrent): Implements the BitTorrent version 1 protocol
+- [log](https://crates.io/crates/log): "A Rust library providing a lightweight logging facade."
+- [rand](https://crates.io/crates/rand): "A Rust library for random number generation"
+- [chrono](https://crates.io/crates/chrono): "Date and Time for Rust"
+- [clap](https://crates.io/crates/clap): "Command Line Argument Parser for Rust"
+- [time](https://crates.io/crates/time)
+- [itoa](https://crates.io/crates/itoa): "This crate provides fast functions for printing integer primitives to an io::Write or a fmt::Write"
+- [smallvec](https://crates.io/crates/smallvec): "store up to a small number of items on the stack"
+- [num-integer](https://crates.io/crates/num-integer): "Integer trait and functions for Rust."
+- [url](https://crates.io/crates/url): "URL library for Rust, based on the URL Standard."
+- [futures](https://crates.io/crates/futures): "Zero-cost asynchronous programming in Rust"
+- [ansi_term](https://crates.io/crates/ansi_term): "This is a library for controlling colours and formatting, such as red bold text or blue underlined text, on ANSI terminals."
+- [ryu](https://crates.io/crates/ryu): "Pure Rust implementation of Ryū, an algorithm to quickly convert floating point numbers to decimal strings."
+- [crossbeam-utils](https://crates.io/crates/crossbeam-utils): "This crate provides miscellaneous tools for concurrent programming"
+- [generic-array](https://crates.io/crates/generic-array): "This crate implements generic array types for Rust."
+- [strsim](https://crates.io/crates/strsim): "Rust implementations of string similarity metrics"
+- [reqwest](https://crates.io/crates/reqwest): "An ergonomic, batteries-included HTTP Client for Rust."
+- [serde](https://crates.io/crates/serde): "Serde is a framework for serializing and deserializing Rust data structures efficiently and generically."
+- [syn](https://crates.io/crates/syn): "Syn is a parsing library for parsing a stream of Rust tokens into a syntax tree of Rust source code."
+- [proc-macro2](https://crates.io/crates/proc-macro2): "A wrapper around the procedural macro API of the compiler's proc_macro crate."
+- [quote](https://crates.io/crates/quote): "This crate provides the quote! macro for turning Rust syntax tree data structures into tokens of source code."
+- [base64](https://crates.io/crates/base64): "It's base64. What more could anyone want?"
+- [rand_chacha](https://crates.io/crates/rand_chacha): "A cryptographically secure random number generator that uses the ChaCha algorithm."
+- [num-traits](https://crates.io/crates/num-traits): "Numeric traits for generic mathematics in Rust."
+- [regex](https://crates.io/crates/regex): "A Rust library for parsing, compiling, and executing regular expressions."
+- [regex-syntax](https://crates.io/crates/regex-syntax): "This crate provides a robust regular expression parser."
+- [https://crates.io/crates/cratetorrent](Cratetorrent): "Cratetorrent is a Rust crate implementing the BitTorrent version 1 protocol."
 
 ## Rust frameworks & tools
 
