@@ -130,6 +130,7 @@ Here are resources to help people learn the Rust programming language.
 
 - [AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet): "A curated Awesome list of websites that tracks the state of Rust in related areas"
 - [AreWeWebYet](https://www.arewewebyet.org/)
+- [AreWeGameYet](https://arewegameyet.rs/)
 
 ## References
 
