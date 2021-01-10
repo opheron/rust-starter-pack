@@ -7,6 +7,8 @@ Here are resources to help people learn the Rust programming language.
 - The [official Rust website](https://www.rust-lang.org/)
 - [The Rust Programming Language official book (2nd edition, 2018)](https://doc.rust-lang.org/book/title-page.html)
 - The official Rust website's [learning page](https://www.rust-lang.org/learn)
+- The Rust website's [playground](https://play.rust-lang.org/): a place to run Rust code in your browser.
+  - See the [About](https://play.rust-lang.org/help) page for more info.
 - [The Rust Standard Library](https://doc.rust-lang.org/std/#the-rust-standard-library)
 
 ## News & Blogs
