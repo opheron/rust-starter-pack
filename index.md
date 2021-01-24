@@ -43,6 +43,7 @@ Here are resources to help people learn the Rust programming language.
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 - [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html): A book attempting to explain Rust in simple English
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html)
+- [Learning Rust](https://github.com/brianquinlan/learn-rust): A short book with brief overviews and examples of Rust language fudnamentals
 
 ### Courses
 
