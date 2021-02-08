@@ -10,6 +10,7 @@ Here are resources to help people learn the Rust programming language.
 - The Rust website's [playground](https://play.rust-lang.org/): a place to run Rust code in your browser.
   - See the [About](https://play.rust-lang.org/help) page for more info.
 - [The Rust Standard Library](https://doc.rust-lang.org/std/#the-rust-standard-library)
+- [Rust Foundation](https://foundation.rust-lang.org/): the non-profit organization that stewards the Rust programming language and ecosystem
 
 ## News & Blogs
 
