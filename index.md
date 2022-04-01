@@ -59,6 +59,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 - [Zero To Production In Rust](https://www.zero2prod.com/): "An opinionated introduction to backend development in Rust"
 - [Fullstack Rust](https://www.newline.co/fullstack-rust): "The complete guide to building fast, production-ready Rust apps"
 - [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/): "Effective Learning through 2D Game Development and Play"
+- [O'Reilly - Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/) by Ken Youens-Clark
 
 ### Courses
 
