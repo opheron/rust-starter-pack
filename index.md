@@ -110,9 +110,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 - [Rust Survey 2020 Results](https://blog.rust-lang.org/2020/12/16/rust-survey-2020.html)
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
-
-  - [Learn Rust With Benford's Law](https://gliderkite.github.io/posts/learn-rust-with-benford/)
-
+- [Learn Rust With Benford's Law](https://gliderkite.github.io/posts/learn-rust-with-benford/)
 - [Rust 2021: Lower the barriers](https://blog.nindalf.com/posts/rust-2021/)
 - [Frustrated? It's not you, it's Rust](https://fasterthanli.me/articles/frustrated-its-not-you-its-rust)
 
