@@ -39,7 +39,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 
 #### Free Books
 
-- [The Rust Programming Language] official book
+- [The Rust Programming Language](https://doc.rust-lang.org/book/): Official book
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 - [Command Line Applications In Rust](https://rust-cli.github.io/book/index.html)
 - [Introduction to Rust Web Applications](https://erwabook.com/intro/index.html): "This book provides a taste of the full-stack, all-Rust approach to building web apps."
@@ -51,7 +51,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 - [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html): A book attempting to explain Rust in simple English
 - [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html)
-- [Rust By Practice][https://practice.rs/why-exercise.html]: "Practice Rust with challenging examples, exercises and projects"
+- [Rust By Practice](https://practice.rs/why-exercise.html): "Practice Rust with challenging examples, exercises and projects"
 
 #### Paid Books 💵
 
@@ -89,7 +89,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 - [Introduction to Rust Tutorial](https://www.koderhq.com/tutorial/rust/)
 - [Roguelike Tutorial in Rust](https://jaredonline.svbtle.com/roguelike-tutorial-in-rust): How to make a roguelike computer game in Rust
 - [Writing an OS in Rust](https://os.phil-opp.com/)
-- [Hecto: Build your own text editor in Rust][https://www.philippflenker.com/hecto/]
+- [Hecto](https://www.philippflenker.com/hecto/): Build your own text editor in Rust
 
 ### Exercises & Practice
 
@@ -99,7 +99,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 - [Project Euler](https://projecteuler.net/): Language-agnostic programming challenges focused mostly on math problems
 - [Rust Practise Questions](https://github.com/sn99/rust-practise-questions)
 - [The r/dailyprogrammer subreddit](https://www.reddit.com/r/dailyprogrammer/)
-- [Rust By Practice]
+- [Rust By Practice](https://practice.rs/why-exercise.html)
 
 ## Media
 
@@ -164,7 +164,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 - [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust): "Collect libraries and packages about cryptography in Rust."
 - [Steadylearner's Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack): A repo containing various Rust-related links
   - Also, see Steadylearner's related [blog](https://www.steadylearner.com/blog)
-- [oreqizer's rust-notes](https://github.com/oreqizer/rust-notes): A repo containing notes from a programmer learning Rust with the [Rust Book]
+- [oreqizer's rust-notes](https://github.com/oreqizer/rust-notes): A repo containing notes from a programmer learning Rust with the [Rust Book](https://doc.rust-lang.org/stable/book/)
 - [Learning Rust through Interview Questions](https://github.com/brianquinlan/learn-rust): Some coding interview questions in Rust
 
 ### Are we X yet?
