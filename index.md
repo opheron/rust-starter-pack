@@ -123,6 +123,7 @@ This is a curated collection of useful resources for people learning the Rust pr
 - [Into Rust](http://intorust.com/): Screencasts for learning Rust
 - [Doug Milford's Rust tutorial playlist](https://www.youtube.com/watch?v=Az3jBd4xdF4&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5): A quality video series teaching various aspects of Rust programming
 - [RustConf 2020](https://www.youtube.com/watch?v=IwPRu5FhfIQ&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei)
+- [Microsoft's Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 - Reddit post - ["A list of some YouTube videos (free) that you can use to help get started"](https://www.reddit.com/r/learnrust/comments/f639yg/a_list_of_some_youtube_videos_free_that_you_can/)
 - [RustConf 2020 - Rust for Non-Systems Programmers by Rebecca Turner](https://www.youtube.com/watch?v=BBvcK_nXUEg)
 - [Ryan Levick - Introduction to Rust Part 1](https://www.youtube.com/watch?v=WnWGO-tLtLA)
